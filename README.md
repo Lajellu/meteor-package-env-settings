@@ -1,5 +1,12 @@
 # 4commerce:env-settings
 
+This repository is just a backup of the code written by Tom Freudenberg.  
+Find the original repo here: https://github.com/4commerce-technologies-AG/meteor-package-env-settings
+
+I've added this package to BigBlueButton (see https://github.com/bigbluebutton/bigbluebutton) to structure and add funcationality to the configuration settings in the progject.
+
+------------------------------------------------------------------------------------------------------------------------
+
 This [meteorjs](https://www.meteor.com) package allows you to organize your settings inside your private assets directory. The configuration files will be autoloaded during startup based on the active environment.
 
 Now you can easily switch between settings just by changing the NODE_ENV variable.
